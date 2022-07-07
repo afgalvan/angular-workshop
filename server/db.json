@@ -1,0 +1,57 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Yep, even 5/6",
+      "description": "",
+      "percentComplete": 27,
+      "favorite": false
+    },
+    {
+      "id": "5xKhzCQ",
+      "title": "Angular 13 Fundamentals",
+      "description": "a",
+      "percentComplete": 46,
+      "favorite": true
+    },
+    {
+      "id": "edonSR0",
+      "title": "a",
+      "description": "a",
+      "percentComplete": 57,
+      "favorite": false
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Hello Angular"
+    },
+    {
+      "title": "Component Fundamentals"
+    },
+    {
+      "title": "Template Driven Forms"
+    },
+    {
+      "title": "Angular Services"
+    },
+    {
+      "title": "Server Communication"
+    },
+    {
+      "title": "Component Driven Architecture"
+    },
+    {
+      "title": "Angular Routing"
+    },
+    {
+      "title": "Unit Testing Fundamentals"
+    }
+  ],
+  "auth": [
+    {
+      "id": "user",
+      "isAuthenticated": true
+    }
+  ]
+}
